@@ -1,3 +1,19 @@
+# Jukee SunoAPI Docker
+
+This repository is a form for Suno API.
+
+to update upstream:
+```
+./pull_upstream.sh
+```
+
+To build the docker image and publich to gcr.io:
+```
+./upload_docker_image.sh
+```
+---
+
+
 <div align="center">
   <h1 align="center"">
       Suno AI API
