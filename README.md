@@ -2,7 +2,7 @@
 
 This repository is a form for Suno API.
 
-to update upstream:
+to update upstream code:
 ```
 ./pull_upstream.sh
 ```
